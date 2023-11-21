@@ -1,12 +1,12 @@
 # Ex-04-Django-Models
-NAME: RAHINI.A
-REFERENCE NUMBER: 23012479
-DEPARTMENT: AIDS
+# NAME: RAHINI.A
+# REFERENCE NUMBER: 23012479
+# DEPARTMENT: AIDS
 
-AIM: 
+# AIM: 
     TO create django model
 
-DESIGN PROCEDURE:
+# DESIGN PROCEDURE:
 
 Django models
 
@@ -34,8 +34,7 @@ view.py
 
 Setup the url path for the templates using urls.py
 
-![WhatsApp Image 2023-11-21 at 20 23 15_a169ee9d](https://github.com/RahiniAchudhan/ODD2023-WT-Ex-04-Django-Models/assets/145742838/511184d0-cb2a-4061-9dc3-d3fb90cb7fc2)
-
+![WhatsApp Image 2023-11-21 at 20 23 16_c902dab7](https://github.com/RahiniAchudhan/ODD2023-WT-Ex-04-Django-Models/assets/145742838/f1a0f982-bba3-42c8-a76b-f742c732cb98)
 
 
 In settings.py file add the app created.
@@ -52,6 +51,16 @@ Last step: run the program using the command
            
 In the admin/ page you can view the models created
 And in the user_profile template page you can see the profile page of the user.
+
+
+# OUTPUT:
+
+![image](https://github.com/RahiniAchudhan/ODD2023-WT-Ex-04-Django-Models/assets/145742838/cfae32f9-e8db-48b7-81f3-18ece85e9e00)
+
+
+![image](https://github.com/RahiniAchudhan/ODD2023-WT-Ex-04-Django-Models/assets/145742838/3a72301d-2a9c-433b-ab58-57123b6c9eb5)
+
+
 
 
     
